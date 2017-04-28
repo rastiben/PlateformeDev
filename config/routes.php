@@ -45,6 +45,7 @@ Router::defaultRouteClass(DashedRoute::class);
 
 
 Router::scope('/admin',['controller' => 'Admin'],function($routes){
+    
 });
 
 
